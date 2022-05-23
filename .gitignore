@@ -1,0 +1,8 @@
+Release
+.vs
+.git
+Debug
+x64
+*.ico
+*.rc
+*.vcxproj
